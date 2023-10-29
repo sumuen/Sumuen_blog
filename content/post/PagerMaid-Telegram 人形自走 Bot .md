@@ -2,7 +2,7 @@
 
 title: PagerMaid-Telegram 人形自走 Bot 
 
-date: '2022-07-23'
+date: '2023-03-23'
 
 categories:
 
