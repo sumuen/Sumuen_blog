@@ -1,7 +1,6 @@
 ---
 title: "Add_volume"
 date: 2023-11-10T23:22:15+08:00
-draft: true
 ---
 ```sh
 amixer set Master 10%+
