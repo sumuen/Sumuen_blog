@@ -1,4 +1,4 @@
 baseURL = 'https://muzi.studio/'
-languageCode = 'cn-zh'
+languageCode = 'en-us'
 title = 'Sumuen Blog'
-theme = 'hugo-ivy'
+theme = 'paper'
